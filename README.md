@@ -31,7 +31,7 @@
 
 <table>
 	<tr align="center">
-		<td colspan="4"><span style="font-weight:bold">Flash Memory</span></td>
+     <td colspan="4"><b>Flash Memory</b></td>
 	</tr>
 	<tr align="center">
 		<td>Downlink configuration</td>
