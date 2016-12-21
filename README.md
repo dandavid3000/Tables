@@ -54,3 +54,5 @@
 </table>
 
 ## changelog [![NPM version](https://badge.fury.io/js/changelog.png)](http://badge.fury.io/js/changelog)  [![Build Status](https://travis-ci.org/dylang/changelog.png)](https://travis-ci.org/dylang/changelog) 
+
+[![Green CityZen](http://www.greencityzen.fr/wp-content/uploads/2015/10/logo-web.png)](http://www.greencityzen.fr/) 
