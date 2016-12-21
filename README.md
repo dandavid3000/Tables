@@ -18,3 +18,13 @@
 | Header ||
 |--------------|
 | 0 | 1 |
+
+<table>
+  <tr>
+      <td colspan="2">Three</td>
+  </tr>
+  <tr>
+       <td>One</td>
+      <td>Two</td>
+  </tr>
+</table>
