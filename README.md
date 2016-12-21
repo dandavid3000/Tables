@@ -19,9 +19,9 @@
 |--------------|
 | 0 | 1 |
 
-<table>
+<table  align="center">
   <tr>
-      <td colspan="2" align="center">Three</td>
+      <td colspan="2">Three</td>
   </tr>
   <tr>
        <td>One</td>
