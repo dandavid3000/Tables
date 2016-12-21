@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-      <td colspan="2">Three</td>
+      <td colspan="2" align="center">Three</td>
   </tr>
   <tr>
        <td>One</td>
