@@ -40,15 +40,15 @@
 		<td>Calibration enabler</td>
 	</tr>
 	<tr align="center">
-		<td>dl_config_buff[8]</td>
-		<td>uplink_counter</td>
-		<td>downlink_counter</td>
-		<td>calibration_enabler</td>
-	</tr>
-	<tr align="center">
 		<td>8 bytes</td>
 		<td>1 byte</td>
 		<td>1 byte</td>
 		<td>1 byte</td>
+	</tr>
+		<tr align="center">
+		<td>dl_config_buff[8]</td>
+		<td>uplink_counter</td>
+		<td>downlink_counter</td>
+		<td>calibration_enabler</td>
 	</tr>
 </table>
