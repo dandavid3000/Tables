@@ -52,3 +52,5 @@
 		<td>calibration_enabler</td>
 	</tr>
 </table>
+
+## changelog [![NPM version](https://badge.fury.io/js/changelog.png)](http://badge.fury.io/js/changelog)  [![Build Status](https://travis-ci.org/dylang/changelog.png)](https://travis-ci.org/dylang/changelog) 
