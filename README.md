@@ -19,8 +19,8 @@
 |--------------|
 | 0 | 1 |
 
-<table  align="center">
-  <tr>
+<table>
+  <tr align="center">
       <td colspan="2">Three</td>
   </tr>
   <tr>
