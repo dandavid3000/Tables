@@ -57,4 +57,4 @@
 
 [![Green CityZen](http://www.greencityzen.fr/wp-content/uploads/2015/10/logo-web.png)](http://www.greencityzen.fr/) 
 
-[![Hummbox](hummbox_logo.jpg)](http://www.greencityzen.fr/) 
+#[![Hummbox](hummbox_logo.jpg)](http://www.greencityzen.fr/) 
